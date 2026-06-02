@@ -1,0 +1,6 @@
+path: D:/window_yolo_train
+train: images/train
+val: images/val
+
+names:
+  0: window
