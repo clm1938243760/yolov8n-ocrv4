@@ -1,5 +1,7 @@
 # yolov8n-ocrv4
 
+> 支撑组件：本仓库保存视觉模型与 Windows 视觉接口原型，不是完整网关安装包。生产网关请分别使用 [Debian-usb-bridge](https://github.com/clm1938243760/Debian-usb-bridge) 或 [RK3588-Debian-bridge](https://github.com/clm1938243760/RK3588-Debian-bridge)。
+
 本仓库保存 Windows 本地视觉接口服务，用于配合 RK3568/RK3588 网关识别 Windows 画面并返回点击坐标。
 
 当前用途：
